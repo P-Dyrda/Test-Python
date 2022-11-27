@@ -2,3 +2,7 @@
 Testowe repo Pythona
 
 Pierwsze zmiany
+
+Drugie zmiany
+- abc
+- def
