@@ -6,3 +6,7 @@ Pierwsze zmiany
 Drugie zmiany
 - abc
 - def
+
+``` python
+print("Hello World!")
+```
